@@ -39,33 +39,14 @@ Representa a estrutura do sistema, detalhando as classes principais, seus atribu
 ## Protótipos de Telas
 
 ### 1. Tela de Login
-Esta tela permite que os usuários (alunos, professores, administradores) façam login no sistema utilizando suas credenciais. A interface é simples, com campos para o usuário inserir seu e-mail e senha.
+Esta tela permite que os usuários (alunos, professores, administradores) façam login no sistema utilizando suas credenciais.
 
 ![Tela de Login]()
 
-### 2. Tela de Cadastro de Pessoa Física
-Nesta tela, é possível cadastrar uma nova Pessoa Física no sistema. O formulário inclui campos obrigatórios como nome, CPF, data de nascimento, endereço e telefone.
+### 2. Tela de Cadastro de Pessoa Física ou Jurídica
+Nesta tela, é possível cadastrar uma nova Pessoa Física no sistema.
 
-![Tela de Cadastro de Pessoa Física]()
-
-### 3. Tela de Cadastro de Pessoa Jurídica
-Nesta tela, é possível cadastrar uma nova Pessoa Jurídica no sistema. O formulário requer o preenchimento de campos como nome da empresa, CNPJ, endereço e telefone.
-
-![Tela de Cadastro de Pessoa Jurídica]()
-
-### 4. Tela de Cadastro de Professores
-Esta tela permite o cadastro de novos professores no sistema, incluindo campos como nome, CPF, data de nascimento, titulação e disciplinas que o professor irá ministrar.
-
-![Tela de Cadastro de Professores]()
-
-### 5. Tela de Cadastro de Fornecedores
-Nesta tela, é possível cadastrar fornecedores no sistema. Os campos incluem nome da empresa, CNPJ, endereço, telefone e tipo de fornecimento (material didático, equipamentos, etc.).
-
-![Tela de Cadastro de Fornecedores]()
-
-### 6. Tela de Cadastro de Alunos
-A tela de cadastro de alunos permite a inserção de novos alunos no sistema, com campos para nome, CPF, data de nascimento, endereço, telefone e matrícula.
-
+![Tela de Cadastro]()
 
 ## Pré-requisitos
 - O usuário deve estar autenticado para realizar operações no sistema.
