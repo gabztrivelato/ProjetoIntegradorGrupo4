@@ -15,10 +15,9 @@ Este projeto é um sistema de gestão escolar desenvolvido como parte do **Proje
 ## Funcionalidades Principais
 
 ### 1. Cadastro de Pessoa Física
-Permite o cadastro de professores e alunos no sistema, onde o usuário preenche informações como nome, CPF, data de nascimento, endereço e telefone.
-
+Permite o cadastro de professores e alunos no sistema, onde o usuário preenche informações como nome, CPF, e-mail e senha.
 ### 2. Cadastro de Pessoa Jurídica
-Permite o cadastro de empresas no sistema, onde o usuário preenche informações como nome da empresa, CNPJ, endereço e telefone.
+Permite o cadastro de empresas no sistema, onde o usuário preenche informações como nome da empresa, CNPJ, e-mail e senha.
 
 ### 3. Matrícula
 Permite que os alunos realizem a matrícula nas disciplinas desejadas, verificando a disponibilidade de vagas e possíveis pendências financeiras.
@@ -31,7 +30,7 @@ Permite que os alunos consultem suas notas em disciplinas específicas através 
 
 ## Diagramas
 ### 1. Diagrama de Caso de Uso
-Representa as principais interações entre os usuários (professores, alunos, administradores) e o sistema, destacando os principais casos de uso.
+Representa as principais interações entre os usuários (professores, alunos, fornecedores) e o sistema, destacando os principais casos de uso.
 
 ![Diagrama de Caso de Uso](img/diagrama_uso.png)
 
@@ -43,14 +42,14 @@ Representa a estrutura do sistema, detalhando as classes principais, seus atribu
 ## Protótipos de Telas
 
 ### 1. Tela de Login
-Esta tela permite que os usuários (alunos, professores, administradores) façam login no sistema utilizando suas credenciais.
+Esta tela permite que os usuários (alunos, professores, fornecedores) façam login no sistema utilizando suas credenciais.
 #### Versão Mobile
 ![Tela de Login Mobile](img/tela_mobile.png)
 #### Versão Desktop
 ![Tela de Login Desktop](img/tela_desktop.png)
 
 ### 2. Tela de Cadastro de Pessoa Física ou Jurídica
-Nesta tela, é possível cadastrar uma nova Pessoa Física no sistema.
+Nesta tela, é possível cadastrar uma nova Pessoa Física ou Juridíca no sistema.
 
 #### Versão Mobile
 ![Tela de Cadastro Mobile](img/tela_mobile2.png)
@@ -72,4 +71,4 @@ Nesta tela, é possível cadastrar uma nova Pessoa Física no sistema.
 ## Tecnologias Utilizadas
 - Programação orientada a objetos
 - UML para modelagem do sistema
-
+- Figma para prototização das telas
