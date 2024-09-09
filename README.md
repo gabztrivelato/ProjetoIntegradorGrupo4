@@ -1,7 +1,7 @@
-# Sistema de Gestão Escolar
+# Sistema de Gestão Universitária
 
 ## Descrição
-Este projeto é um sistema de gestão escolar desenvolvido como parte do **Projeto Integrador** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no **SENAC**. O sistema é orientado a objetos e visa facilitar a administração escolar, incluindo funcionalidades como cadastro de pessoas (físicas e jurídicas), matrícula de alunos, lançamento de notas por professores, entre outras.
+Este projeto é um sistema de gestão escolar desenvolvido como parte do **Projeto Integrador** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no **SENAC**. O sistema é orientado a objetos e visa facilitar a administração de dados universitários, incluindo funcionalidades como cadastro de pessoas (físicas e jurídicas), matrícula de alunos, lançamento de notas por professores, entre outras.
 
 ## Integrantes do Grupo
 - Doris Campos Mendonça
