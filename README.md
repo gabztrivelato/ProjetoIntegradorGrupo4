@@ -33,25 +33,29 @@ Permite que os alunos consultem suas notas em disciplinas específicas através 
 ### 1. Diagrama de Caso de Uso
 Representa as principais interações entre os usuários (professores, alunos, administradores) e o sistema, destacando os principais casos de uso.
 
-![Diagrama de Caso de Uso](Diagrama 2.PNG
-)
+![Diagrama de Caso de Uso](img/diagrama_uso.png)
 
 ### 2. Diagrama de Classe
 Representa a estrutura do sistema, detalhando as classes principais, seus atributos e métodos, bem como os relacionamentos entre elas.
 
-![Diagrama de Caso de Classe]()
+![Diagrama de Caso de Classe](img/diagrama_classe.PNG)
 
 ## Protótipos de Telas
 
 ### 1. Tela de Login
 Esta tela permite que os usuários (alunos, professores, administradores) façam login no sistema utilizando suas credenciais.
-
-![Tela de Login]()
+#### Versão Mobile
+![Tela de Login Mobile](img/tela_mobile.png)
+#### Versão Desktop
+![Tela de Login Desktop](img/tela_desktop.png)
 
 ### 2. Tela de Cadastro de Pessoa Física ou Jurídica
 Nesta tela, é possível cadastrar uma nova Pessoa Física no sistema.
 
-![Tela de Cadastro]()
+#### Versão Mobile
+![Tela de Cadastro Mobile](img/tela_mobile2.png)
+#### Versão Desktop
+![Tela de Cadastro Desktop](img/tela_desktop_2png.png)
 
 ## Pré-requisitos
 - O usuário deve estar autenticado para realizar operações no sistema.
