@@ -33,7 +33,8 @@ Permite que os alunos consultem suas notas em disciplinas específicas através 
 ### 1. Diagrama de Caso de Uso
 Representa as principais interações entre os usuários (professores, alunos, administradores) e o sistema, destacando os principais casos de uso.
 
-![Diagrama de Caso de Uso]()
+![Diagrama de Caso de Uso](Diagrama 2.PNG
+)
 
 ### 2. Diagrama de Classe
 Representa a estrutura do sistema, detalhando as classes principais, seus atributos e métodos, bem como os relacionamentos entre elas.
