@@ -24,9 +24,17 @@ Permite que os alunos realizem a matrícula nas disciplinas desejadas, verifican
 
 ### 4. Lançamento de Notas
 Permite que os professores lancem as notas dos alunos em disciplinas específicas, com validação de informações e permissões.
+### Condições
+- **pré-condição** : o professor deve estar cadastrado no sistema; 
+
+- **pós-condição** : as notas são atualizadas e disponíveis para consulta pelos alunos. 
 
 ### 5. Consulta de Notas
 Permite que os alunos consultem suas notas em disciplinas específicas através do sistema.
+#### Condições
+- **pré-condição** : o aluno deve estar matriculado na escola; o aluno deve ter um login e senha válidos para acessar o sistema; o sistema escolar deve estar online e funcional; e as notas já devem estar cadastradas pelos professores no sistema; 
+
+- **pós-condição** : o sistema registra a consulta de notas no histórico de acessos do aluno. 
 
 ## Diagramas
 ### 1. Diagrama de Caso de Uso
